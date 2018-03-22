@@ -20,7 +20,7 @@ CSS frameworks:
 ## What frameworks are there?
 - **[Foundation](http://foundation.zurb.com/)** (preferred)
 - [Bootstrap](http://getbootstrap.com/)
-- [Bootstrap](http://adventurega.me/bootstrap/)
+- [Mock Bootstrap Site](http://adventurega.me/bootstrap/)
 - [Pure](http://purecss.io/)
 - Many, many others
 
